@@ -1,7 +1,7 @@
 /*Start of <header> style*/
 
 #header {
-	background-color: black;
+	background-color: red;
 }
 
 #header img.logo {
@@ -33,7 +33,7 @@
 }
 
 body {
-	background-image: url('http://www.giant-point.com/wp-content/uploads/2015/12/red-bg.jpg');
+	background-image: url('http://www.giant-point.com/wp-content/uploads/2015/12/red-bg.jpghttp://www.solidbackgrounds.com/images/1920x1080/1920x1080-navy-blue-solid-color-background.jpg');
 	
 }
 
@@ -163,7 +163,7 @@ body {
 #footer {
 	color: #ffffff;
 	text-align: center;
-	background-color: black;
+	background-color: red;
 	padding: 20px 0px 20px 0;
 }
 /*End of <footer> style*/
