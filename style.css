@@ -1,7 +1,7 @@
 /*Start of <header> style*/
 
 #header {
-	background-color: red;
+	background: #fd7f7f;
 }
 
 #header img.logo {
@@ -163,7 +163,7 @@ body {
 #footer {
 	color: #ffffff;
 	text-align: center;
-	background-color: red;
+	background: #fd7f7f;
 	padding: 20px 0px 20px 0;
 }
 /*End of <footer> style*/
